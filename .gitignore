@@ -1,2 +1,5 @@
 # ignore the test ipynb file
 test.ipynb
+curve*
+line*
+sinusoid*
